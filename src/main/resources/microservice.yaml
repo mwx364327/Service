@@ -1,6 +1,6 @@
 APPLICATION_ID: pojotest
 service_description:
-  name: Service
+  name: service
   version: 0.0.1
 cse:
   service:
